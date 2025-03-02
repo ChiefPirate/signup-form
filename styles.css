@@ -9,11 +9,11 @@
 }
 @font-face {
     font-family: Norse;
-    src: url(Norse-Bold.otf);
+    src: url(resources/Norse-Bold.otf);
   }
 
 .leftside{
-    background-image: url(background.jpg);
+    background-image: url(resources/background.jpg);
     background-size:cover;
     width: 40%;
     position: relative;
